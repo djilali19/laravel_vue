@@ -1,7 +1,6 @@
 <script setup>
 import { Head, Link } from '@inertiajs/inertia-vue3';
 import ApplicationLogo from '@/Components/ApplicationLogo.vue';
-
 import DataTable from 'primevue/datatable';
 import Column from 'primevue/column';
 import ColumnGroup from 'primevue/columngroup';   // optional
